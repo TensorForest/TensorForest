@@ -1,13 +1,20 @@
 from pymavlink import mavutil
 import logging
+import json
+import os
 
 # Set up logging
-logging.basicConfig(filename='flight_data.log',
-                    level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='flight_data.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
 # Set up the UART connection
 uart_port = 'COM7'  # Change this to your UART port
 baud_rate = 460800  # Default baud rate for telemetry; adjust if needed
+
+# Set up JSON logging
+json_log_file = 'flight_data.json'
+if not os.path.exists(json_log_file):
+    with open(json_log_file, 'w') as file:
+        json.dump([], file)
 
 try:
     # Establish connection
@@ -30,23 +37,35 @@ try:
 
     # Fetch data in a loop
     while True:
+        data_entry = {}
+
         # Fetch and log GPS data
         gps_msg = connection.recv_match(type='GPS_RAW_INT', blocking=True)
         if gps_msg:
             latitude = gps_msg.lat / 1e7  # Convert to decimal degrees
             longitude = gps_msg.lon / 1e7
             gps_altitude = gps_msg.alt / 1000  # Convert to meters
-            gps_data = f"GPS: Lat={latitude}, Lon={
-                longitude}, Alt={gps_altitude}m"
+            gps_data = {
+                "GPS": {
+                    "latitude": latitude,
+                    "longitude": longitude,
+                    "altitude_m": gps_altitude
+                }
+            }
+            data_entry.update(gps_data)
             print(gps_data)
             logging.info(gps_data)
 
         # Fetch and log Rangefinder data
-        rangefinder_msg = connection.recv_match(
-            type='RANGEFINDER', blocking=True)
+        rangefinder_msg = connection.recv_match(type='RANGEFINDER', blocking=True)
         if rangefinder_msg:
             rangefinder_distance = rangefinder_msg.distance  # In meters
-            rangefinder_data = f"Rangefinder: {rangefinder_distance}m"
+            rangefinder_data = {
+                "Rangefinder": {
+                    "distance_m": rangefinder_distance
+                }
+            }
+            data_entry.update(rangefinder_data)
             print(rangefinder_data)
             logging.info(rangefinder_data)
 
@@ -54,7 +73,12 @@ try:
         altitude_msg = connection.recv_match(type='VFR_HUD', blocking=True)
         if altitude_msg:
             altitude = altitude_msg.alt  # In meters
-            altitude_data = f"Altitude: {altitude}m"
+            altitude_data = {
+                "Altitude": {
+                    "altitude_m": altitude
+                }
+            }
+            data_entry.update(altitude_data)
             print(altitude_data)
             logging.info(altitude_data)
 
@@ -64,19 +88,39 @@ try:
             roll = attitude_msg.roll
             pitch = attitude_msg.pitch
             yaw = attitude_msg.yaw
-            attitude_data = f"Attitude: Roll={roll}, Pitch={pitch}, Yaw={yaw}"
+            attitude_data = {
+                "Attitude": {
+                    "roll": roll,
+                    "pitch": pitch,
+                    "yaw": yaw
+                }
+            }
+            data_entry.update(attitude_data)
             print(attitude_data)
             logging.info(attitude_data)
 
         # Fetch and log Battery Status data
-        battery_msg = connection.recv_match(
-            type='BATTERY_STATUS', blocking=True)
+        battery_msg = connection.recv_match(type='BATTERY_STATUS', blocking=True)
         if battery_msg:
             voltage = battery_msg.voltages[0] / 1000.0  # Convert to volts
             current = battery_msg.current_battery / 100.0  # Convert to amps
-            battery_data = f"Battery: Voltage={voltage}V, Current={current}A"
+            battery_data = {
+                "Battery": {
+                    "voltage_v": voltage,
+                    "current_a": current
+                }
+            }
+            data_entry.update(battery_data)
             print(battery_data)
             logging.info(battery_data)
+
+        # Write data entry to JSON file
+        if data_entry:
+            with open(json_log_file, 'r+') as file:
+                data = json.load(file)
+                data.append(data_entry)
+                file.seek(0)
+                json.dump(data, file, indent=4)
 
 except KeyboardInterrupt:
     print("Exiting program.")

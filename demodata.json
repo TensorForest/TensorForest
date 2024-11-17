@@ -1,0 +1,44 @@
+[
+    {
+        "GPS": {
+            "latitude": 37.7749,
+            "longitude": -122.4194,
+            "altitude_m": 15.5
+        },
+        "Rangefinder": {
+            "distance_m": 1.2
+        },
+        "Altitude": {
+            "altitude_m": 15.5,
+            "roll": 0.01,
+            "pitch": -0.02,
+            "yaw": 1.5
+        },
+        "Battery": {
+            "voltage_v": 11.1,
+            "current_a": 1.5
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 37.7750,
+            "longitude": -122.4195,
+            "altitude_m": 16.0
+        },
+        "Rangefinder": {
+            "distance_m": 1.3
+        },
+        "Altitude": {
+            "altitude_m": 16.0
+        },
+        "Attitude": {
+            "roll": 0.02,
+            "pitch": -0.01,
+            "yaw": 1.6
+        },
+        "Battery": {
+            "voltage_v": 11.0,
+            "current_a": 1.6
+        }
+    }
+]
