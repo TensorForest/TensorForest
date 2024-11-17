@@ -1,0 +1,266 @@
+[
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.0799999237060547
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.9976444244384766,
+            "pitch": -0.21552971005439758,
+            "yaw": -0.902158260345459
+        },
+        "Battery": {
+            "voltage_v": 16.022,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.1600000858306885
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -3.0373764038085938,
+            "pitch": -0.31777387857437134,
+            "yaw": -0.9481425285339355
+        },
+        "Battery": {
+            "voltage_v": 16.023,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.1399998664855957
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.6771278381347656,
+            "pitch": 0.16029183566570282,
+            "yaw": -0.3107855021953583
+        },
+        "Battery": {
+            "voltage_v": 16.022,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.7820000648498535
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -0.756731390953064,
+            "pitch": 1.4260098934173584,
+            "yaw": -2.698742389678955
+        },
+        "Battery": {
+            "voltage_v": 16.019,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.2699999809265137
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -0.4204785227775574,
+            "pitch": 0.6476835012435913,
+            "yaw": -2.297306776046753
+        },
+        "Battery": {
+            "voltage_v": 16.022,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 0.4659999907016754
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -0.9501341581344604,
+            "pitch": 0.18317952752113342,
+            "yaw": -1.6877607107162476
+        },
+        "Battery": {
+            "voltage_v": 16.026,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 0.5
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -0.4082728326320648,
+            "pitch": 0.280015230178833,
+            "yaw": -2.447613477706909
+        },
+        "Battery": {
+            "voltage_v": 16.016,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 0.3799999952316284
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.046971082687378,
+            "pitch": 1.3105870485305786,
+            "yaw": -0.7357348799705505
+        },
+        "Battery": {
+            "voltage_v": 16.011,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.9579999446868896
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": -2.101674795150757,
+            "pitch": 1.3446379899978638,
+            "yaw": 2.4014437198638916
+        },
+        "Battery": {
+            "voltage_v": 16.018,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.7799999713897705
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.984450578689575,
+            "pitch": 0.432659775018692,
+            "yaw": 0.2866605818271637
+        },
+        "Battery": {
+            "voltage_v": 16.015,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.059999942779541
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.9857840538024902,
+            "pitch": 0.17407658696174622,
+            "yaw": 0.3277958631515503
+        },
+        "Battery": {
+            "voltage_v": 15.997,
+            "current_a": 0.0
+        }
+    },
+    {
+        "GPS": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude_m": -17.0
+        },
+        "Rangefinder": {
+            "distance_m": 2.059999942779541
+        },
+        "Altitude": {
+            "altitude_m": -4.670000076293945
+        },
+        "Attitude": {
+            "roll": 2.949549674987793,
+            "pitch": 0.054394930601119995,
+            "yaw": 0.34418681263923645
+        },
+        "Battery": {
+            "voltage_v": 16.013,
+            "current_a": 0.0
+        }
+    }
+]

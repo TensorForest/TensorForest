@@ -70,17 +70,17 @@ try:
             logging.info(rangefinder_data)
 
         # Fetch and log Altitude data
-        altitude_msg = connection.recv_match(type='VFR_HUD', blocking=True)
-        if altitude_msg:
-            altitude = altitude_msg.alt  # In meters
-            altitude_data = {
-                "Altitude": {
-                    "altitude_m": altitude
-                }
-            }
-            data_entry.update(altitude_data)
-            print(altitude_data)
-            logging.info(altitude_data)
+        # altitude_msg = connection.recv_match(type='VFR_HUD', blocking=True)
+        # if altitude_msg:
+        #     altitude = altitude_msg.alt  # In meters
+        #     altitude_data = {
+        #         "Altitude": {
+        #             "altitude_m": altitude
+        #         }
+        #     }
+        #     data_entry.update(altitude_data)
+        #     print(altitude_data)
+        #     logging.info(altitude_data)
 
         # Fetch and log Attitude data
         attitude_msg = connection.recv_match(type='ATTITUDE', blocking=True)
