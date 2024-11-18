@@ -54,7 +54,7 @@ Wildfires are a growing environmental concern, causing devastating damage to eco
 ## 📝 Contact  
 
 - **Arnnav Kudale** – [@blazecoding2009](https://github.com/blazecoding2009)  
-- **Shayaan Azeem** – [@shayaan_azeem](https://github.com/shayaan_azeem)  
+- **Shayaan Azeem** – [@shayaan_azeem](https://github.com/shayaan-azeem)  
 - **Rohanth Marem** – [@rohanthmarem](https://github.com/rohanthmarem)  
 
 Project Link: [TensorForest on GitHub](https://github.com/tensorforest/tensorforest)
