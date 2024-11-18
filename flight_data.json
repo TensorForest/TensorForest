@@ -262,5 +262,1785 @@
             "voltage_v": 16.013,
             "current_a": 0.0
         }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:17.110036",
+        "GPS": {
+            "latitude": 43.4860339,
+            "longitude": -79.7310564,
+            "altitude_m": 172.98
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.022602494806051254,
+            "pitch": 0.0051567088812589645,
+            "yaw": 2.523322105407715
+        },
+        "Battery": {
+            "voltage_v": 15.194,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:19.196443",
+        "GPS": {
+            "latitude": 43.4860303,
+            "longitude": -79.7310753,
+            "altitude_m": 174.32
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.021328426897525787,
+            "pitch": 0.005500266328454018,
+            "yaw": 2.5258867740631104
+        },
+        "Battery": {
+            "voltage_v": 15.191,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:20.497666",
+        "GPS": {
+            "latitude": 43.48603,
+            "longitude": -79.7310759,
+            "altitude_m": 174.3
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.022681940346956253,
+            "pitch": 0.005299516022205353,
+            "yaw": 2.526653528213501
+        },
+        "Battery": {
+            "voltage_v": 15.189,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:21.750138",
+        "GPS": {
+            "latitude": 43.4860306,
+            "longitude": -79.7310742,
+            "altitude_m": 173.51
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02313382551074028,
+            "pitch": 0.0049348268657922745,
+            "yaw": 2.527531862258911
+        },
+        "Battery": {
+            "voltage_v": 15.192,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:23.105667",
+        "GPS": {
+            "latitude": 43.4860305,
+            "longitude": -79.7310749,
+            "altitude_m": 173.88
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.024086453020572662,
+            "pitch": 0.004527686163783073,
+            "yaw": 2.528409957885742
+        },
+        "Battery": {
+            "voltage_v": 15.19,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:24.408180",
+        "GPS": {
+            "latitude": 43.4860301,
+            "longitude": -79.7310773,
+            "altitude_m": 174.3
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.023674283176660538,
+            "pitch": 0.004786156117916107,
+            "yaw": 2.5292835235595703
+        },
+        "Battery": {
+            "voltage_v": 15.181,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:25.707743",
+        "GPS": {
+            "latitude": 43.4860299,
+            "longitude": -79.7310769,
+            "altitude_m": 174.46
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02372351661324501,
+            "pitch": 0.004881974309682846,
+            "yaw": 2.5301692485809326
+        },
+        "Battery": {
+            "voltage_v": 15.187,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:27.017414",
+        "GPS": {
+            "latitude": 43.4860307,
+            "longitude": -79.7310752,
+            "altitude_m": 173.92
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02337433025240898,
+            "pitch": 0.004610225558280945,
+            "yaw": 2.5311951637268066
+        },
+        "Battery": {
+            "voltage_v": 15.187,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:28.377531",
+        "GPS": {
+            "latitude": 43.4860307,
+            "longitude": -79.7310742,
+            "altitude_m": 173.69
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.022784695029258728,
+            "pitch": 0.004785334691405296,
+            "yaw": 2.5318284034729004
+        },
+        "Battery": {
+            "voltage_v": 15.189,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:29.638715",
+        "GPS": {
+            "latitude": 43.4860304,
+            "longitude": -79.7310755,
+            "altitude_m": 173.74
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0225960873067379,
+            "pitch": 0.004657650366425514,
+            "yaw": 2.53255558013916
+        },
+        "Battery": {
+            "voltage_v": 15.188,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:31.003469",
+        "GPS": {
+            "latitude": 43.48603,
+            "longitude": -79.7310764,
+            "altitude_m": 173.98
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02210799604654312,
+            "pitch": 0.004811245948076248,
+            "yaw": 2.5333118438720703
+        },
+        "Battery": {
+            "voltage_v": 15.184,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:32.309277",
+        "GPS": {
+            "latitude": 43.4860289,
+            "longitude": -79.7310768,
+            "altitude_m": 174.48
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02160274237394333,
+            "pitch": 0.004750395193696022,
+            "yaw": 2.5339159965515137
+        },
+        "Battery": {
+            "voltage_v": 15.178,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:33.664146",
+        "GPS": {
+            "latitude": 43.4860276,
+            "longitude": -79.7310797,
+            "altitude_m": 174.8
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.021046355366706848,
+            "pitch": 0.0046372804790735245,
+            "yaw": 2.534550189971924
+        },
+        "Battery": {
+            "voltage_v": 15.187,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:35.030656",
+        "GPS": {
+            "latitude": 43.4860264,
+            "longitude": -79.7310823,
+            "altitude_m": 175.5
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.020363565534353256,
+            "pitch": 0.004829432815313339,
+            "yaw": 2.535154104232788
+        },
+        "Battery": {
+            "voltage_v": 15.184,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:36.333792",
+        "GPS": {
+            "latitude": 43.486025,
+            "longitude": -79.7310842,
+            "altitude_m": 176.34
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02031334489583969,
+            "pitch": 0.004849588498473167,
+            "yaw": 2.535939931869507
+        },
+        "Battery": {
+            "voltage_v": 15.174,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:37.637570",
+        "GPS": {
+            "latitude": 43.4860246,
+            "longitude": -79.7310812,
+            "altitude_m": 176.36
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0193362794816494,
+            "pitch": 0.005098789930343628,
+            "yaw": 2.5366227626800537
+        },
+        "Battery": {
+            "voltage_v": 15.183,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:38.943259",
+        "GPS": {
+            "latitude": 43.4860243,
+            "longitude": -79.7310809,
+            "altitude_m": 176.62
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.019424550235271454,
+            "pitch": 0.005253283306956291,
+            "yaw": 2.537014961242676
+        },
+        "Battery": {
+            "voltage_v": 15.162,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:40.352539",
+        "GPS": {
+            "latitude": 43.4860239,
+            "longitude": -79.7310796,
+            "altitude_m": 176.56
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.020155135542154312,
+            "pitch": 0.005282539874315262,
+            "yaw": 2.537309408187866
+        },
+        "Battery": {
+            "voltage_v": 15.182,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:41.606873",
+        "GPS": {
+            "latitude": 43.4860252,
+            "longitude": -79.7310735,
+            "altitude_m": 175.72
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.022095102816820145,
+            "pitch": 0.004486683756113052,
+            "yaw": 2.5377705097198486
+        },
+        "Battery": {
+            "voltage_v": 15.171,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:42.959440",
+        "GPS": {
+            "latitude": 43.4860252,
+            "longitude": -79.7310694,
+            "altitude_m": 175.66
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.022206980735063553,
+            "pitch": 0.004760079085826874,
+            "yaw": 2.5382437705993652
+        },
+        "Battery": {
+            "voltage_v": 15.166,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:44.260174",
+        "GPS": {
+            "latitude": 43.4860257,
+            "longitude": -79.731065,
+            "altitude_m": 175.09
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.021755743771791458,
+            "pitch": 0.004861786961555481,
+            "yaw": 2.5386362075805664
+        },
+        "Battery": {
+            "voltage_v": 15.164,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:45.613697",
+        "GPS": {
+            "latitude": 43.4860256,
+            "longitude": -79.7310626,
+            "altitude_m": 174.56
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02145259827375412,
+            "pitch": 0.005028044804930687,
+            "yaw": 2.5391154289245605
+        },
+        "Battery": {
+            "voltage_v": 15.155,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:46.976016",
+        "GPS": {
+            "latitude": 43.4860259,
+            "longitude": -79.731057,
+            "altitude_m": 173.56
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.020940285176038742,
+            "pitch": 0.004935469478368759,
+            "yaw": 2.5396857261657715
+        },
+        "Battery": {
+            "voltage_v": 15.158,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:48.286551",
+        "GPS": {
+            "latitude": 43.4860254,
+            "longitude": -79.7310534,
+            "altitude_m": 173.09
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.020772863179445267,
+            "pitch": 0.004199579358100891,
+            "yaw": 2.540163993835449
+        },
+        "Battery": {
+            "voltage_v": 15.161,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:49.692783",
+        "GPS": {
+            "latitude": 43.4860257,
+            "longitude": -79.7310496,
+            "altitude_m": 172.76
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02075813338160515,
+            "pitch": 0.004256380721926689,
+            "yaw": 2.5406439304351807
+        },
+        "Battery": {
+            "voltage_v": 15.157,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:51.044287",
+        "GPS": {
+            "latitude": 43.4860253,
+            "longitude": -79.7310491,
+            "altitude_m": 173.32
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.02015065774321556,
+            "pitch": 0.004611479118466377,
+            "yaw": 2.541097402572632
+        },
+        "Battery": {
+            "voltage_v": 15.162,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:52.349698",
+        "GPS": {
+            "latitude": 43.4860239,
+            "longitude": -79.7310472,
+            "altitude_m": 174.04
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.018506526947021484,
+            "pitch": 0.005122192203998566,
+            "yaw": 2.541306495666504
+        },
+        "Battery": {
+            "voltage_v": 15.162,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:53.657735",
+        "GPS": {
+            "latitude": 43.4860224,
+            "longitude": -79.7310483,
+            "altitude_m": 174.5
+        },
+        "Rangefinder": {
+            "distance_m": 0.0820000022649765
+        },
+        "Attitude": {
+            "roll": -0.01677975431084633,
+            "pitch": 0.005983727052807808,
+            "yaw": 2.541440010070801
+        },
+        "Battery": {
+            "voltage_v": 15.156,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:55.017506",
+        "GPS": {
+            "latitude": 43.4860223,
+            "longitude": -79.7310455,
+            "altitude_m": 174.1
+        },
+        "Rangefinder": {
+            "distance_m": 0.08399999886751175
+        },
+        "Attitude": {
+            "roll": -0.016717758029699326,
+            "pitch": 0.005991922691464424,
+            "yaw": 2.541825771331787
+        },
+        "Battery": {
+            "voltage_v": 15.161,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:56.421686",
+        "GPS": {
+            "latitude": 43.4860221,
+            "longitude": -79.7310438,
+            "altitude_m": 173.97
+        },
+        "Rangefinder": {
+            "distance_m": 0.085999995470047
+        },
+        "Attitude": {
+            "roll": -0.01681986078619957,
+            "pitch": 0.006171237677335739,
+            "yaw": 2.5422792434692383
+        },
+        "Battery": {
+            "voltage_v": 15.153,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:57.730122",
+        "GPS": {
+            "latitude": 43.486021,
+            "longitude": -79.7310446,
+            "altitude_m": 174.06
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.007673915475606918,
+            "pitch": 0.004405781626701355,
+            "yaw": 2.542762279510498
+        },
+        "Battery": {
+            "voltage_v": 15.092,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:04:59.040808",
+        "GPS": {
+            "latitude": 43.4860198,
+            "longitude": -79.7310489,
+            "altitude_m": 174.8
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0008025020360946655,
+            "pitch": 0.002969827502965927,
+            "yaw": 2.543375015258789
+        },
+        "Battery": {
+            "voltage_v": 15.085,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:00.399146",
+        "GPS": {
+            "latitude": 43.4860193,
+            "longitude": -79.731049,
+            "altitude_m": 174.79
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0001420527696609497,
+            "pitch": 0.002518991008400917,
+            "yaw": 2.5433192253112793
+        },
+        "Battery": {
+            "voltage_v": 15.08,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:01.654617",
+        "GPS": {
+            "latitude": 43.4860181,
+            "longitude": -79.7310573,
+            "altitude_m": 175.6
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0008122771978378296,
+            "pitch": 0.0027484167367219925,
+            "yaw": 2.5444517135620117
+        },
+        "Battery": {
+            "voltage_v": 15.073,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:03.008973",
+        "GPS": {
+            "latitude": 43.4860177,
+            "longitude": -79.7310612,
+            "altitude_m": 175.87
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0016160309314727783,
+            "pitch": 0.0021485891193151474,
+            "yaw": 2.5446534156799316
+        },
+        "Battery": {
+            "voltage_v": 15.073,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:04.311996",
+        "GPS": {
+            "latitude": 43.486018,
+            "longitude": -79.7310626,
+            "altitude_m": 175.56
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.001764059066772461,
+            "pitch": 0.0012382715940475464,
+            "yaw": 2.5448737144470215
+        },
+        "Battery": {
+            "voltage_v": 15.065,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:05.618206",
+        "GPS": {
+            "latitude": 43.4860192,
+            "longitude": -79.731063,
+            "altitude_m": 174.9
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 9.301304817199707e-05,
+            "pitch": -0.0002166852355003357,
+            "yaw": 2.5447146892547607
+        },
+        "Battery": {
+            "voltage_v": 15.065,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:06.981146",
+        "GPS": {
+            "latitude": 43.4860196,
+            "longitude": -79.7310602,
+            "altitude_m": 174.71
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0025952011346817017,
+            "pitch": -0.0020121894776821136,
+            "yaw": 2.545424461364746
+        },
+        "Battery": {
+            "voltage_v": 15.056,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:08.235774",
+        "GPS": {
+            "latitude": 43.4860197,
+            "longitude": -79.7310545,
+            "altitude_m": 174.38
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -9.081512689590454e-05,
+            "pitch": -0.00290694460272789,
+            "yaw": 2.5478248596191406
+        },
+        "Battery": {
+            "voltage_v": 15.057,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:09.596462",
+        "GPS": {
+            "latitude": 43.48602,
+            "longitude": -79.7310533,
+            "altitude_m": 173.83
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0013741850852966309,
+            "pitch": -0.0025257542729377747,
+            "yaw": 2.547910690307617
+        },
+        "Battery": {
+            "voltage_v": 15.056,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:10.902741",
+        "GPS": {
+            "latitude": 43.4860203,
+            "longitude": -79.731051,
+            "altitude_m": 173.27
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0005699247121810913,
+            "pitch": -0.002190709114074707,
+            "yaw": 2.548769950866699
+        },
+        "Battery": {
+            "voltage_v": 15.052,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:12.210958",
+        "GPS": {
+            "latitude": 43.4860202,
+            "longitude": -79.7310562,
+            "altitude_m": 173.31
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0007709488272666931,
+            "pitch": -0.0007766447961330414,
+            "yaw": 2.5492007732391357
+        },
+        "Battery": {
+            "voltage_v": 15.06,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:13.523669",
+        "GPS": {
+            "latitude": 43.4860206,
+            "longitude": -79.7310589,
+            "altitude_m": 173.11
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0013172775506973267,
+            "pitch": -0.0001717396080493927,
+            "yaw": 2.5510778427124023
+        },
+        "Battery": {
+            "voltage_v": 15.047,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:14.833336",
+        "GPS": {
+            "latitude": 43.4860214,
+            "longitude": -79.7310594,
+            "altitude_m": 171.99
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": 0.0003174692392349243,
+            "pitch": 0.0017038621008396149,
+            "yaw": 2.5514039993286133
+        },
+        "Battery": {
+            "voltage_v": 15.028,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:16.145942",
+        "GPS": {
+            "latitude": 43.4860221,
+            "longitude": -79.7310597,
+            "altitude_m": 171.28
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -4.3258070945739746e-05,
+            "pitch": 0.0013204775750637054,
+            "yaw": 2.5522818565368652
+        },
+        "Battery": {
+            "voltage_v": 15.036,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:17.506231",
+        "GPS": {
+            "latitude": 43.4860227,
+            "longitude": -79.7310624,
+            "altitude_m": 170.61
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.002282954752445221,
+            "pitch": 0.002072446048259735,
+            "yaw": 2.5538737773895264
+        },
+        "Battery": {
+            "voltage_v": 15.012,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:18.811405",
+        "GPS": {
+            "latitude": 43.4860237,
+            "longitude": -79.7310607,
+            "altitude_m": 170.17
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.0017421618103981018,
+            "pitch": 0.0012999214231967926,
+            "yaw": 2.554450273513794
+        },
+        "Battery": {
+            "voltage_v": 15.021,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:20.166062",
+        "GPS": {
+            "latitude": 43.4860239,
+            "longitude": -79.7310584,
+            "altitude_m": 170.12
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.000288449227809906,
+            "pitch": 0.0006753355264663696,
+            "yaw": 2.636336326599121
+        },
+        "Battery": {
+            "voltage_v": 15.017,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:21.473710",
+        "GPS": {
+            "latitude": 43.486024,
+            "longitude": -79.731055,
+            "altitude_m": 169.88
+        },
+        "Rangefinder": {
+            "distance_m": 0.07999999821186066
+        },
+        "Attitude": {
+            "roll": -0.04893789067864418,
+            "pitch": -0.06306032836437225,
+            "yaw": 2.6065738201141357
+        },
+        "Battery": {
+            "voltage_v": 14.052,
+            "current_a": 13.14
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:22.831343",
+        "GPS": {
+            "latitude": 43.4860231,
+            "longitude": -79.7310579,
+            "altitude_m": 169.95
+        },
+        "Rangefinder": {
+            "distance_m": 0.8639999628067017
+        },
+        "Attitude": {
+            "roll": -0.12084567546844482,
+            "pitch": -0.09779506921768188,
+            "yaw": 2.6040446758270264
+        },
+        "Battery": {
+            "voltage_v": 12.849,
+            "current_a": 32.14
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:24.192978",
+        "GPS": {
+            "latitude": 43.4860233,
+            "longitude": -79.7310723,
+            "altitude_m": 172.32
+        },
+        "Rangefinder": {
+            "distance_m": 3.0820000171661377
+        },
+        "Attitude": {
+            "roll": -0.0033918246626853943,
+            "pitch": -0.06619073450565338,
+            "yaw": 2.623859167098999
+        },
+        "Battery": {
+            "voltage_v": 13.02,
+            "current_a": 28.19
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:25.502430",
+        "GPS": {
+            "latitude": 43.4860244,
+            "longitude": -79.7310622,
+            "altitude_m": 174.26
+        },
+        "Rangefinder": {
+            "distance_m": 4.800000190734863
+        },
+        "Attitude": {
+            "roll": 0.018184617161750793,
+            "pitch": -0.06433476507663727,
+            "yaw": 2.629122018814087
+        },
+        "Battery": {
+            "voltage_v": 13.408,
+            "current_a": 20.97
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:26.915627",
+        "GPS": {
+            "latitude": 43.4860227,
+            "longitude": -79.7310559,
+            "altitude_m": 174.96
+        },
+        "Rangefinder": {
+            "distance_m": 5.383999824523926
+        },
+        "Attitude": {
+            "roll": 0.08431229740381241,
+            "pitch": -0.11570587754249573,
+            "yaw": 2.5591444969177246
+        },
+        "Battery": {
+            "voltage_v": 12.84,
+            "current_a": 29.49
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:28.326730",
+        "GPS": {
+            "latitude": 43.4860124,
+            "longitude": -79.7310446,
+            "altitude_m": 174.78
+        },
+        "Rangefinder": {
+            "distance_m": 5.941999912261963
+        },
+        "Attitude": {
+            "roll": 0.11889553815126419,
+            "pitch": -0.2235759049654007,
+            "yaw": 3.05224609375
+        },
+        "Battery": {
+            "voltage_v": 13.401,
+            "current_a": 18.63
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:31.124985",
+        "GPS": {
+            "latitude": 43.485946,
+            "longitude": -79.7310453,
+            "altitude_m": 174.98
+        },
+        "Rangefinder": {
+            "distance_m": 6.429999351501465
+        },
+        "Attitude": {
+            "roll": -0.18197977542877197,
+            "pitch": -0.15477237105369568,
+            "yaw": 3.0252861976623535
+        },
+        "Battery": {
+            "voltage_v": 13.477,
+            "current_a": 17.07
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:33.302889",
+        "GPS": {
+            "latitude": 43.4858876,
+            "longitude": -79.7310524,
+            "altitude_m": 176.21
+        },
+        "Rangefinder": {
+            "distance_m": 6.808000087738037
+        },
+        "Attitude": {
+            "roll": -0.10818131268024445,
+            "pitch": -0.28281328082084656,
+            "yaw": 1.7794463634490967
+        },
+        "Battery": {
+            "voltage_v": 13.188,
+            "current_a": 21.37
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:35.491309",
+        "GPS": {
+            "latitude": 43.4858917,
+            "longitude": -79.7309866,
+            "altitude_m": 177.8
+        },
+        "Rangefinder": {
+            "distance_m": 6.991999626159668
+        },
+        "Attitude": {
+            "roll": 0.12432049959897995,
+            "pitch": -0.15334825217723846,
+            "yaw": 1.6474391222000122
+        },
+        "Battery": {
+            "voltage_v": 12.772,
+            "current_a": 29.17
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:39.064060",
+        "GPS": {
+            "latitude": 43.4859235,
+            "longitude": -79.7307928,
+            "altitude_m": 178.6
+        },
+        "Rangefinder": {
+            "distance_m": 6.125999927520752
+        },
+        "Attitude": {
+            "roll": -0.13440871238708496,
+            "pitch": -0.033576760441064835,
+            "yaw": -0.0018551895627751946
+        },
+        "Battery": {
+            "voltage_v": 12.969,
+            "current_a": 24.43
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:40.679671",
+        "GPS": {
+            "latitude": 43.4859842,
+            "longitude": -79.7307844,
+            "altitude_m": 176.18
+        },
+        "Rangefinder": {
+            "distance_m": 4.949999809265137
+        },
+        "Attitude": {
+            "roll": -0.07499026507139206,
+            "pitch": -0.015208873897790909,
+            "yaw": -0.013728523626923561
+        },
+        "Battery": {
+            "voltage_v": 12.548,
+            "current_a": 30.77
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:44.296410",
+        "GPS": {
+            "latitude": 43.4860709,
+            "longitude": -79.7308163,
+            "altitude_m": 171.03
+        },
+        "Rangefinder": {
+            "distance_m": 5.210000038146973
+        },
+        "Attitude": {
+            "roll": -0.1681039035320282,
+            "pitch": -0.1784413903951645,
+            "yaw": -2.3035545349121094
+        },
+        "Battery": {
+            "voltage_v": 13.783,
+            "current_a": 9.41
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:47.911466",
+        "GPS": {
+            "latitude": 43.485997,
+            "longitude": -79.7309216,
+            "altitude_m": 171.06
+        },
+        "Rangefinder": {
+            "distance_m": 5.477999687194824
+        },
+        "Attitude": {
+            "roll": -0.03109659254550934,
+            "pitch": 0.03628774359822273,
+            "yaw": -2.2932968139648438
+        },
+        "Battery": {
+            "voltage_v": 13.781,
+            "current_a": 9.97
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:50.044804",
+        "GPS": {
+            "latitude": 43.4859861,
+            "longitude": -79.7309583,
+            "altitude_m": 171.78
+        },
+        "Rangefinder": {
+            "distance_m": 5.637999534606934
+        },
+        "Attitude": {
+            "roll": -0.108341284096241,
+            "pitch": 0.013271266594529152,
+            "yaw": -2.311957359313965
+        },
+        "Battery": {
+            "voltage_v": 13.767,
+            "current_a": 10.54
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:51.408032",
+        "GPS": {
+            "latitude": 43.4859876,
+            "longitude": -79.7309632,
+            "altitude_m": 171.68
+        },
+        "Rangefinder": {
+            "distance_m": 4.691999912261963
+        },
+        "Attitude": {
+            "roll": -0.07712936401367188,
+            "pitch": -0.06113644316792488,
+            "yaw": -2.2976667881011963
+        },
+        "Battery": {
+            "voltage_v": 13.767,
+            "current_a": 10.6
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:52.770524",
+        "GPS": {
+            "latitude": 43.4859902,
+            "longitude": -79.7309553,
+            "altitude_m": 170.64
+        },
+        "Rangefinder": {
+            "distance_m": 3.5320000648498535
+        },
+        "Attitude": {
+            "roll": -0.0816052034497261,
+            "pitch": -0.031691137701272964,
+            "yaw": -2.3181076049804688
+        },
+        "Battery": {
+            "voltage_v": 13.785,
+            "current_a": 10.65
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:54.091344",
+        "GPS": {
+            "latitude": 43.4859844,
+            "longitude": -79.7309472,
+            "altitude_m": 170.16
+        },
+        "Rangefinder": {
+            "distance_m": 2.437999963760376
+        },
+        "Attitude": {
+            "roll": -0.027182478457689285,
+            "pitch": -0.04425448551774025,
+            "yaw": -2.2903425693511963
+        },
+        "Battery": {
+            "voltage_v": 13.71,
+            "current_a": 11.9
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:55.458189",
+        "GPS": {
+            "latitude": 43.4859901,
+            "longitude": -79.7309477,
+            "altitude_m": 170.11
+        },
+        "Rangefinder": {
+            "distance_m": 1.6759999990463257
+        },
+        "Attitude": {
+            "roll": -0.07956500351428986,
+            "pitch": -0.040933508425951004,
+            "yaw": -2.310168504714966
+        },
+        "Battery": {
+            "voltage_v": 12.977,
+            "current_a": 25.13
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:56.761913",
+        "GPS": {
+            "latitude": 43.4859876,
+            "longitude": -79.7309451,
+            "altitude_m": 169.84
+        },
+        "Rangefinder": {
+            "distance_m": 0.9039999842643738
+        },
+        "Attitude": {
+            "roll": -0.042273081839084625,
+            "pitch": -0.04475532844662666,
+            "yaw": -2.3064303398132324
+        },
+        "Battery": {
+            "voltage_v": 13.01,
+            "current_a": 23.57
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:58.072544",
+        "GPS": {
+            "latitude": 43.4859929,
+            "longitude": -79.7309403,
+            "altitude_m": 170.21
+        },
+        "Rangefinder": {
+            "distance_m": 0.37400001287460327
+        },
+        "Attitude": {
+            "roll": -0.06353320926427841,
+            "pitch": -0.06050706282258034,
+            "yaw": -2.302934408187866
+        },
+        "Battery": {
+            "voltage_v": 13.11,
+            "current_a": 21.42
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:05:59.379991",
+        "GPS": {
+            "latitude": 43.4859846,
+            "longitude": -79.7309305,
+            "altitude_m": 170.07
+        },
+        "Rangefinder": {
+            "distance_m": 0.12999999523162842
+        },
+        "Attitude": {
+            "roll": 0.572248637676239,
+            "pitch": -0.007806483656167984,
+            "yaw": -2.253126621246338
+        },
+        "Battery": {
+            "voltage_v": 14.445,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:00.790666",
+        "GPS": {
+            "latitude": 43.4859814,
+            "longitude": -79.7309333,
+            "altitude_m": 170.09
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5407842993736267,
+            "pitch": -0.027122698724269867,
+            "yaw": -2.277348279953003
+        },
+        "Battery": {
+            "voltage_v": 14.525,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:02.253005",
+        "GPS": {
+            "latitude": 43.485986,
+            "longitude": -79.7309439,
+            "altitude_m": 170.47
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5417798757553101,
+            "pitch": -0.028686698526144028,
+            "yaw": -2.291855812072754
+        },
+        "Battery": {
+            "voltage_v": 14.57,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:03.663701",
+        "GPS": {
+            "latitude": 43.4859919,
+            "longitude": -79.7309515,
+            "altitude_m": 171.38
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5407558083534241,
+            "pitch": -0.02732177823781967,
+            "yaw": -2.3088254928588867
+        },
+        "Battery": {
+            "voltage_v": 14.617,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:05.275447",
+        "GPS": {
+            "latitude": 43.4859932,
+            "longitude": -79.7309454,
+            "altitude_m": 171.69
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5397352576255798,
+            "pitch": -0.02392752468585968,
+            "yaw": -2.3371713161468506
+        },
+        "Battery": {
+            "voltage_v": 14.648,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:06.785287",
+        "GPS": {
+            "latitude": 43.4859943,
+            "longitude": -79.7309389,
+            "altitude_m": 171.38
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5381937623023987,
+            "pitch": -0.02442973107099533,
+            "yaw": -2.3696658611297607
+        },
+        "Battery": {
+            "voltage_v": 14.667,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:08.245102",
+        "GPS": {
+            "latitude": 43.4859951,
+            "longitude": -79.7309414,
+            "altitude_m": 171.89
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5389594435691833,
+            "pitch": -0.02558959275484085,
+            "yaw": -2.3834757804870605
+        },
+        "Battery": {
+            "voltage_v": 14.687,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:09.706394",
+        "GPS": {
+            "latitude": 43.4859948,
+            "longitude": -79.7309399,
+            "altitude_m": 172.23
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5359702706336975,
+            "pitch": -0.023590974509716034,
+            "yaw": -2.3874642848968506
+        },
+        "Battery": {
+            "voltage_v": 14.711,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:11.114250",
+        "GPS": {
+            "latitude": 43.4859977,
+            "longitude": -79.730944,
+            "altitude_m": 172.88
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5327799916267395,
+            "pitch": -0.018533863127231598,
+            "yaw": -2.3864948749542236
+        },
+        "Battery": {
+            "voltage_v": 14.726,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:12.526330",
+        "GPS": {
+            "latitude": 43.486004,
+            "longitude": -79.730939,
+            "altitude_m": 172.39
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.525605320930481,
+            "pitch": -0.008455056697130203,
+            "yaw": -2.372464179992676
+        },
+        "Battery": {
+            "voltage_v": 14.741,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:13.936833",
+        "GPS": {
+            "latitude": 43.4860108,
+            "longitude": -79.7309379,
+            "altitude_m": 171.85
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5197120904922485,
+            "pitch": 0.0015877317637205124,
+            "yaw": -2.3650968074798584
+        },
+        "Battery": {
+            "voltage_v": 14.756,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:15.357372",
+        "GPS": {
+            "latitude": 43.4860085,
+            "longitude": -79.7309323,
+            "altitude_m": 171.85
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5158718824386597,
+            "pitch": 0.005643276497721672,
+            "yaw": -2.362755537033081
+        },
+        "Battery": {
+            "voltage_v": 14.769,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:16.825292",
+        "GPS": {
+            "latitude": 43.4860121,
+            "longitude": -79.7309412,
+            "altitude_m": 173.3
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.518702507019043,
+            "pitch": 0.0060814134776592255,
+            "yaw": -2.36598539352417
+        },
+        "Battery": {
+            "voltage_v": 14.781,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:18.183201",
+        "GPS": {
+            "latitude": 43.4860121,
+            "longitude": -79.7309485,
+            "altitude_m": 174.83
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5209406018257141,
+            "pitch": 0.0019465330988168716,
+            "yaw": -2.3696670532226562
+        },
+        "Battery": {
+            "voltage_v": 14.793,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:19.594837",
+        "GPS": {
+            "latitude": 43.4860185,
+            "longitude": -79.730954,
+            "altitude_m": 174.18
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5249362587928772,
+            "pitch": -0.002127215266227722,
+            "yaw": -2.3740110397338867
+        },
+        "Battery": {
+            "voltage_v": 14.8,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:20.958078",
+        "GPS": {
+            "latitude": 43.4860104,
+            "longitude": -79.7309499,
+            "altitude_m": 173.75
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5242091417312622,
+            "pitch": -0.006128694862127304,
+            "yaw": -2.3796920776367188
+        },
+        "Battery": {
+            "voltage_v": 14.813,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:22.370495",
+        "GPS": {
+            "latitude": 43.4860066,
+            "longitude": -79.7309479,
+            "altitude_m": 173.76
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5254024863243103,
+            "pitch": -0.009818002581596375,
+            "yaw": -2.388551712036133
+        },
+        "Battery": {
+            "voltage_v": 14.809,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:23.682726",
+        "GPS": {
+            "latitude": 43.4860023,
+            "longitude": -79.730949,
+            "altitude_m": 173.64
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5281150341033936,
+            "pitch": -0.014779411256313324,
+            "yaw": -2.3986847400665283
+        },
+        "Battery": {
+            "voltage_v": 14.821,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:25.044953",
+        "GPS": {
+            "latitude": 43.4860029,
+            "longitude": -79.7309648,
+            "altitude_m": 175.04
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5328964591026306,
+            "pitch": -0.01922724023461342,
+            "yaw": -2.4105756282806396
+        },
+        "Battery": {
+            "voltage_v": 14.827,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:26.404098",
+        "GPS": {
+            "latitude": 43.4860014,
+            "longitude": -79.73097,
+            "altitude_m": 176.1
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.5376987457275391,
+            "pitch": -0.0236784927546978,
+            "yaw": -2.4229252338409424
+        },
+        "Battery": {
+            "voltage_v": 14.833,
+            "current_a": 0.0
+        }
+    },
+    {
+        "timestamp": "2024-11-17T14:06:27.767060",
+        "GPS": {
+            "latitude": 43.4860025,
+            "longitude": -79.7309744,
+            "altitude_m": 177.27
+        },
+        "Rangefinder": {
+            "distance_m": 0.08999999612569809
+        },
+        "Attitude": {
+            "roll": 0.54279625415802,
+            "pitch": -0.025185927748680115,
+            "yaw": -2.4356813430786133
+        },
+        "Battery": {
+            "voltage_v": 14.839,
+            "current_a": 0.0
+        }
     }
 ]

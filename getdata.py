@@ -2,9 +2,11 @@ from pymavlink import mavutil
 import logging
 import json
 import os
+from datetime import datetime
 
 # Set up logging
-logging.basicConfig(filename='flight_data.log', level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='flight_data.log',
+                    level=logging.INFO, format='%(asctime)s %(message)s')
 
 # Set up the UART connection
 uart_port = 'COM7'  # Change this to your UART port
@@ -37,7 +39,9 @@ try:
 
     # Fetch data in a loop
     while True:
-        data_entry = {}
+        data_entry = {
+            "timestamp": datetime.now().isoformat()
+        }
 
         # Fetch and log GPS data
         gps_msg = connection.recv_match(type='GPS_RAW_INT', blocking=True)
@@ -46,7 +50,7 @@ try:
             longitude = gps_msg.lon / 1e7
             gps_altitude = gps_msg.alt / 1000  # Convert to meters
             gps_data = {
-                "GPS": {
+                "gps": {
                     "latitude": latitude,
                     "longitude": longitude,
                     "altitude_m": gps_altitude
@@ -57,30 +61,18 @@ try:
             logging.info(gps_data)
 
         # Fetch and log Rangefinder data
-        rangefinder_msg = connection.recv_match(type='RANGEFINDER', blocking=True)
+        rangefinder_msg = connection.recv_match(
+            type='RANGEFINDER', blocking=True)
         if rangefinder_msg:
             rangefinder_distance = rangefinder_msg.distance  # In meters
             rangefinder_data = {
-                "Rangefinder": {
+                "rangefinder": {
                     "distance_m": rangefinder_distance
                 }
             }
             data_entry.update(rangefinder_data)
             print(rangefinder_data)
             logging.info(rangefinder_data)
-
-        # Fetch and log Altitude data
-        # altitude_msg = connection.recv_match(type='VFR_HUD', blocking=True)
-        # if altitude_msg:
-        #     altitude = altitude_msg.alt  # In meters
-        #     altitude_data = {
-        #         "Altitude": {
-        #             "altitude_m": altitude
-        #         }
-        #     }
-        #     data_entry.update(altitude_data)
-        #     print(altitude_data)
-        #     logging.info(altitude_data)
 
         # Fetch and log Attitude data
         attitude_msg = connection.recv_match(type='ATTITUDE', blocking=True)
@@ -89,7 +81,7 @@ try:
             pitch = attitude_msg.pitch
             yaw = attitude_msg.yaw
             attitude_data = {
-                "Attitude": {
+                "altitude": {
                     "roll": roll,
                     "pitch": pitch,
                     "yaw": yaw
@@ -100,12 +92,13 @@ try:
             logging.info(attitude_data)
 
         # Fetch and log Battery Status data
-        battery_msg = connection.recv_match(type='BATTERY_STATUS', blocking=True)
+        battery_msg = connection.recv_match(
+            type='BATTERY_STATUS', blocking=True)
         if battery_msg:
             voltage = battery_msg.voltages[0] / 1000.0  # Convert to volts
             current = battery_msg.current_battery / 100.0  # Convert to amps
             battery_data = {
-                "Battery": {
+                "battery": {
                     "voltage_v": voltage,
                     "current_a": current
                 }
