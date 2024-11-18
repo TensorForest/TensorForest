@@ -1,7 +1,8 @@
 
 # TensorForest 🌲🔥  
 **Innovating Wildfire Prevention with Drones, LiDAR, and Machine Learning**
-![Uploading image.png…]()
+![image](https://github.com/TensorForest/TensorForest/blob/main/drone_v2_pic.jpg)
+
 
 ---
 
